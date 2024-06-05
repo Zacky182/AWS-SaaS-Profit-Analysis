@@ -1,6 +1,6 @@
 # AWS SaaS Profit Analysis: A Comprehensive Review by Country and Product
 ## Overview
-This Analysis presents a detailed analysis of the profit performance of AWS SaaS products, segmented by country and product. Through this analysis, we aim to provide insights into the profitability trends and factors influencing the financial outcomes across different country and product lines.
+This Analysis presents a detailed analysis of the profit performance of AWS SaaS products, segmented by country and product. Through this analysis, we aim to provide insights into the profitability trends and factors influencing the financial outcomes across different counties and product lines.
 ## Business Problem Statement
 Discount utilization is a critical aspect of AWS SaaS Sales strategy, impacting overall profitability. The company aims to assess the effectiveness of its current discounting strategy and its implications on profitabilityof each country and product.
 
