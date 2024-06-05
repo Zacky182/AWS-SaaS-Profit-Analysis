@@ -35,9 +35,11 @@ The dataset contains the following columns:
 
 ## Getting Started
 ### Prerequisites
-Python 3.x
-Pandas library
+- Python 3.x
+- Pandas library
 
 ## Contributing
 Contributions are welcome! Please feel free to open a pull request, sent to my email ammarmuzacky@gmail.com or submit an issue if you encounter any problems or have suggestions for improvements.
 
+## Data Visualization
+For further insights and detailed visualizations, please explore my [Dashboards](https://public.tableau.com/app/profile/ammar.muzaki.maftuh/viz/AWSSaasProfitandDiscountDasboard/AWSSaaSDasboardAnalysis) and [Stories](https://public.tableau.com/app/profile/ammar.muzaki.maftuh/viz/AWSSaasProfitandDiscountAnalysis/Story1) on Tableau.
